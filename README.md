@@ -19,6 +19,9 @@ ___
 
 **The project is designed both for desktop and mobile screens.**
 
+___
+
+[Preview](https://alinak8.github.io/landing-page/)
 
 
 
